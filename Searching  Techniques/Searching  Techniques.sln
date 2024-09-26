@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searching  Techniques", "Searching  Techniques\Searching  Techniques.csproj", "{EA2487B9-18BC-4E3B-847B-6737486E63EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2487B9-18BC-4E3B-847B-6737486E63EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2487B9-18BC-4E3B-847B-6737486E63EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2487B9-18BC-4E3B-847B-6737486E63EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2487B9-18BC-4E3B-847B-6737486E63EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F150AD-5E39-4BC5-B68A-832522C38304}
+	EndGlobalSection
+EndGlobal
